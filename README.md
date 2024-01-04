@@ -1,32 +1,32 @@
 # Java Virtual Bank
 
-Este é um projeto de sistema bancário virtual em Java, projetado para fornecer funcionalidades essenciais para operações bancárias.
+This is a virtual banking system project in Java, designed to provide essential functionalities for banking operations.
 
-## Funcionalidades
+## Features
 
-### 1. Abrir Conta
-O usuário insere os dados do futuro correntista na aplicação. Se o futuro correntista não tiver uma conta aberta, o sistema abrirá a conta, inserindo os dados do correntista em uma lista linear duplamente encadeada. O sistema não permite o registro de dois correntistas com o mesmo número de CPF.
+### 1. Open Account
+The user enters the prospective account holder's data into the application. If the prospective account holder does not have an open account, the system will open an account by inserting the account holder's data into a doubly linked list. The system does not allow the registration of two account holders with the same CPF.
 
-### 2. Realizar Saque
-O usuário fornece o valor desejado para saque. Se o saldo disponível for suficiente, o sistema debitará o valor do saldo do correntista. A pesquisa é feita pelo número de CPF do correntista.
+### 2. Make Withdrawal
+The user provides the desired withdrawal amount. If the available balance is sufficient, the system will debit the amount from the account holder's balance. The search is performed using the account holder's CPF.
 
-### 3. Realizar Depósito
-O usuário fornece o valor desejado para saque. Se estiver cadastrado no sistema, o valor é adicionado ao seu saldo. A pesquisa é realizada pelo número de CPF do correntista.
+### 3. Make Deposit
+The user provides the desired deposit amount. If registered in the system, the amount is added to their balance. The search is performed using the account holder's CPF.
 
-### 4. Relatório de Contas
-Gera um relatório detalhado de todas as contas no sistema, incluindo informações como CPF da conta, titular, saldo.
+### 4. Account Report
+Generates a detailed report of all accounts in the system, including information such as account CPF, holder, and balance.
 
-### 5. Encerrar Conta
-Permite que um usuário encerre sua conta bancária.
+### 5. Close Account
+Allows a user to close their bank account.
 
-## Requisitos do Sistema
-- Java JDK 8 ou superior
-- Ambiente de desenvolvimento integrado (IDE) compatível com Java (Eclipse, IntelliJ, etc.)
+## System Requirements
+- Java JDK 8 or higher
+- Integrated Development Environment (IDE) compatible with Java (Eclipse, IntelliJ, etc.)
 
-## Como Executar o Projeto
-1. Clone este repositório: `git clone https://github.com/GuilhermeLotaif01/JavaVirtualBank.git`
-2. Abra o projeto em sua IDE Java preferida.
-3. Compile e execute o arquivo principal do programa.
+## How to Run the Project
+1. Clone this repository: `git clone https://github.com/GuilhermeLotaif01/JavaVirtualBank.git`
+2. Open the project in your preferred Java IDE.
+3. Compile and run the main program file.
 
-## Contribuições
-Contribuições são bem-vindas! Sinta-se à vontade para reportar problemas, propor melhorias ou enviar pull requests.
+## Contributions
+Contributions are welcome! Feel free to report issues, suggest improvements, or submit pull requests.

@@ -2,5 +2,5 @@
 
 The workspace contains two folders, where:
 
-- `src`: the folder to maintain sources
-- `bin`: the folder to compiled output files
+- `src`: The folder for Java files
+- `bin`: The folder to compiled output files

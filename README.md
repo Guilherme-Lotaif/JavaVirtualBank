@@ -1,6 +1,6 @@
 # Java Virtual Bank
 
-This is a virtual banking system project in Java, designed to provide essential functionalities for banking operations.
+This is a virtual banking system project in Java, designed to provide essential functionalities for banking operations. The entire system is implemented through a graphical interface (JOptionPane).
 
 ## Features
 
@@ -18,10 +18,6 @@ Generates a detailed report of all accounts in the system, including information
 
 ### 5. Close Account
 Allows a user to close their bank account.
-
-## System Requirements
-- Java JDK 8 or higher
-- Integrated Development Environment (IDE) compatible with Java (Eclipse, IntelliJ, etc.)
 
 ## How to Run the Project
 1. Clone this repository: `git clone https://github.com/GuilhermeLotaif01/JavaVirtualBank.git`

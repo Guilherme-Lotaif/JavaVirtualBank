@@ -24,4 +24,4 @@ Contributions are welcome! Feel free to report issues, suggest improvements, or 
 
 ## License
 
-This project is licensed under the MIT License - [LICENSE](https://github.com/GuilhermeLotaif01/JavaVirtualBank/blob/main/LICENSE).
+This project is licensed under the MIT License - [LICENSE](https://github.com/Guilherme-Lotaif/JavaVirtualBank/blob/main/LICENSE).

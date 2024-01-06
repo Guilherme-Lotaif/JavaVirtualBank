@@ -19,11 +19,6 @@ Generates a detailed report of all accounts in the system, including information
 ### 5. Close Account
 Allows a user to close their bank account.
 
-## How to Run the Project
-1. Clone this repository: `git clone https://github.com/GuilhermeLotaif01/JavaVirtualBank.git`
-2. Open the project in your preferred Java IDE.
-3. Compile and run the main program file.
-
 ## Contributions
 Contributions are welcome! Feel free to report issues, suggest improvements, or submit pull requests.
 
